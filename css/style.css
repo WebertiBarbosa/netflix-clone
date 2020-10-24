@@ -108,4 +108,15 @@ header nav a:hover {
   margin-top: 10px;
 }
 
+.transition:hover {
+  -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+
+.container span {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.8em;
+}
 
